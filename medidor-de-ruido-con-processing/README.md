@@ -97,7 +97,7 @@ void loop() {
 }
 ```
 
-[semaforo-ruido-con-imagenes.ino](https://github.com/ElCableAmarillo/Practicas/blob/master/medidor-de-ruido-con-processing/semaforo-ruido-con-imagenes.ino))
+[semaforo-ruido-con-imagenes.ino](https://github.com/ElCableAmarillo/Practicas/blob/master/medidor-de-ruido-con-processing/semaforo-ruido-con-imagenes.ino)
 
 ## Programación en Processing
 
