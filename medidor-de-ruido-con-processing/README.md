@@ -96,7 +96,7 @@ void loop() {
 }
 ```
 
-![](semaforo-ruido-con-imagenes.ino)
+[Archivo arduino IDE (.ino)](semaforo-ruido-con-imagenes.ino)
 
 ## Programación en Processing
 
@@ -152,7 +152,7 @@ void draw(){
 
 ```
 
-![](processing_imagenes/processing_imagenes.pde)
+[Archivo processing (.pde)](processing_imagenes/processing_imagenes.pde)
 
 ## Enlaces de interés
 
