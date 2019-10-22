@@ -96,7 +96,7 @@ void loop() {
 }
 ```
 
-[Archivo arduino IDE (.ino)](semaforo-ruido-con-imagenes.ino)
+[semaforo-ruido-con-imagenes.ino](https://github.com/ElCableAmarillo/Practicas/blob/master/medidor-de-ruido-con-processing/semaforo-ruido-con-imagenes.ino))
 
 ## Programación en Processing
 
@@ -152,7 +152,7 @@ void draw(){
 
 ```
 
-[Archivo processing (.pde)](processing_imagenes/processing_imagenes.pde)
+[Archivo processing (.pde)](https://github.com/ElCableAmarillo/Practicas/blob/master/medidor-de-ruido-con-processing/processing_imagenes/processing_imagenes.pde)
 
 ## Enlaces de interés
 
